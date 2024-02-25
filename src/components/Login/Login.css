@@ -1,0 +1,35 @@
+.flex .ant-form-item-control-input-content {
+  display: flex;
+  justify-content: space-between;
+}
+
+.login-form-button {
+  background-color: #3c4448;
+  height: 44px;
+}
+
+.text-font-weight {
+  color: #3c4448;
+  font-weight: 700;
+  padding-right: 5px;
+}
+
+.link {
+  font-weight: 500;
+  color: #606c72;
+  font-size: 15px;
+}
+
+.login-form-forgot {
+  color: #3c4448;
+}
+
+.input {
+  height: 44px;
+  font-size: 15px;
+  border: 1.5px solid #000;
+}
+
+.ant-form-item-required {
+  font-size: 15px;
+}

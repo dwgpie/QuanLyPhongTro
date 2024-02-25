@@ -1,0 +1,24 @@
+.content-center {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin: 50px 500px;
+}
+
+.height-segmented .ant-segmented-item,
+.height-segmented .ant-segmented-item-label {
+  height: 50px;
+  font-weight: 700;
+}
+
+.height-segmented .ant-segmented-item-label {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.height-segmented .ant-segmented-item-selected {
+  color: #f6f6bd;
+  background-color: #3c4448;
+  font-weight: 700;
+}
